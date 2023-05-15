@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natiele Czarneki</h1>
-<h3 align="center">A student passionate about front-end.</h3>
 
-- 🔭 I’m currently working on **Course Completion Project**
+- 🔭 Graduated in Systems Analysis and Development
 
 - 🌱 I’m currently learning **Frameworks, courses, etc.**
 
