@@ -1,9 +1,9 @@
- <h1 align="center">Olá!👋Eu sou a Natiele Czarneki</h1>
+ <h1 align="center">Olá!👋Eu sou a Natiele Czarneki</h1><br>
 
 - 👩‍🎓 Graduada em Análise e Desenvolvimento de Sistemas - IFPR.
-- 👩‍💻 Uma estudante, apaixonada por tecnologia e programação.
+- 👩‍💻 Uma estudante, apaixonada por tecnologia e programação. 
 
-<div>
+<div><br>
   <a href="https://"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NCzarneki&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NCzarneki&layout=compact&langs_count=16&theme=dracula"/>
