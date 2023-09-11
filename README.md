@@ -1,4 +1,4 @@
- <h1 align="center">Olá!👋Eu sou a Natiele Czarneki</h1><br>
+ <h1 align="center">Olá!👋 Me chamo, Natiele Czarneki. Seja bem-vindo(a) ao meu Github!</h1><br>
 
 - 👩‍🎓 Graduada em Análise e Desenvolvimento de Sistemas - IFPR.
 - 👩‍💻 Uma estudante, apaixonada por tecnologia e programação. 
