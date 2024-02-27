@@ -1,7 +1,7 @@
  <h1 align="center">Olá!👋 Sou a Natiele Czarneki.</h1><br>
 
 - 👩‍🎓 Graduada em Análise e Desenvolvimento de Sistemas - IFPR.
-- 👩‍💻 Uma estudante, apaixonada por tecnologia e programação. 
+- 👩‍💻 Apaixonada por tecnologia e programação. 
 
 <div><br>
   <a href="https://"></a>
